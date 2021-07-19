@@ -1,21 +1,16 @@
-### Hi there 👋
+<div align="center">
 
-#### My GitHub Stats 
+### Hi There 👋
 
-[![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-byte&count_private=true&show_icons=true&theme=dracula)](https://github.com/Sebastian-byte)
+#### My GitHub Stats
 
-#### Most Used Languages
+[![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian-byte&count_private=true&show_icons=true&theme=dark)](https://github.com/Sebastian-byte)
 
-[![Sebastián's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-byte&count_private=true&show_icons=true&theme=darcula&layout=compact)](https://github.com/Sebastian-byte)
+[![Sebastián's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-byte&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&langs_count=6)](https://github.com/Sebastian-byte)
 
-<br />
+### [Ask me something :question:](https://github.com/sebastian-byte/sebastian-byte/issues)
 
-### [Do you want to ask me something :question:](https://github.com/sebastian-byte/sebastian-byte/issues)
+## You're Visitor Number
+![Visitor Count](https://profile-counter.glitch.me/Sebastian-byte/count.svg)
 
-<br />
-
-## You're visitor number
-![Visitor Count](https://profile-counter.glitch.me/sebastian-byte/count.svg)
-
-- 🔭 I’m currently working on ...
--->
+</div>
